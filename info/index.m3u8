@@ -9,10 +9,6 @@ output0.ts
 output1.ts
 #EXTINF:3.000000,
 output2.ts
-#EXTINF:3.000000,
-output3.ts
-#EXTINF:3.000000,
-output4.ts
 #EXTINF:1.125000,
-output5.ts
+output3.ts
 #EXT-X-ENDLIST
